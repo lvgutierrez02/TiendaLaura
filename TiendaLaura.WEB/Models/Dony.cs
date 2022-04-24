@@ -2,5 +2,6 @@
 {
     public class Dony
     {
+        public int MyProperty { get; set; }
     }
 }
